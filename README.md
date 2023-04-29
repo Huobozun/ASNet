@@ -36,7 +36,7 @@ In order to use ASNet, you need first download the MVSEC "indoor-flying' files i
 
 
 
-### Installation
+## Installation
 
 ### Requirements
 The code is tested on:
